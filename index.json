@@ -1,0 +1,609 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-25T00:00:00.000Z",
+  "packages": [
+    {
+      "id": "2001",
+      "type": "bible",
+      "path": "2001.bible.zip",
+      "name": "https://2001translation.org/",
+      "description": "https://2001translation.org/",
+      "code": "2001",
+      "version": "1.0.0"
+    },
+    {
+      "id": "acv",
+      "type": "bible",
+      "path": "ACV.bible.zip",
+      "name": "A Conservative Version translated by Dr. Walter L. Porter",
+      "description": "A Conservative Version translated by Dr. Walter L. Porter",
+      "code": "ACV",
+      "version": "1.0.0"
+    },
+    {
+      "id": "asv",
+      "type": "bible",
+      "path": "ASV.bible.zip",
+      "name": "Formatted reading at https://marvel.bible",
+      "description": "Formatted reading at https://marvel.bible",
+      "code": "ASV",
+      "version": "1.0.0"
+    },
+    {
+      "id": "anderson",
+      "type": "bible",
+      "path": "Anderson.bible.zip",
+      "name": "Anderson's 1865 New Testament",
+      "description": "Anderson's 1865 New Testament",
+      "code": "Anderson",
+      "version": "1.0.0"
+    },
+    {
+      "id": "bbe",
+      "type": "bible",
+      "path": "BBE.bible.zip",
+      "name": "https://en.wikipedia.org/wiki/Bible_in_Basic_English",
+      "description": "https://en.wikipedia.org/wiki/Bible_in_Basic_English",
+      "code": "BBE",
+      "version": "1.0.0"
+    },
+    {
+      "id": "bsb",
+      "type": "bible",
+      "path": "BSB.bible.zip",
+      "name": "https://berean.bible/",
+      "description": "https://berean.bible/",
+      "code": "BSB",
+      "version": "1.0.0"
+    },
+    {
+      "id": "bv2020",
+      "type": "bible",
+      "path": "BV2020.bible.zip",
+      "name": "https://www.breakthroughversion.com/",
+      "description": "https://www.breakthroughversion.com/",
+      "code": "BV2020",
+      "version": "1.0.0"
+    },
+    {
+      "id": "bishops",
+      "type": "bible",
+      "path": "Bishops.bible.zip",
+      "name": "https://en.wikipedia.org/wiki/Bishops%27_Bible",
+      "description": "https://en.wikipedia.org/wiki/Bishops%27_Bible",
+      "code": "Bishops",
+      "version": "1.0.0"
+    },
+    {
+      "id": "cuv",
+      "type": "bible",
+      "path": "CUV.bible.zip",
+      "name": "Chinese Union Version (Traditional) \u548c\u5408\u672c",
+      "description": "Chinese Union Version (Traditional) \u548c\u5408\u672c",
+      "code": "CUV",
+      "version": "1.0.0"
+    },
+    {
+      "id": "cuvs",
+      "type": "bible",
+      "path": "CUVs.bible.zip",
+      "name": "Chinese Union Version (Simplified) \u548c\u5408\u672c",
+      "description": "Chinese Union Version (Simplified) \u548c\u5408\u672c",
+      "code": "CUVs",
+      "version": "1.0.0"
+    },
+    {
+      "id": "coverdale",
+      "type": "bible",
+      "path": "Coverdale.bible.zip",
+      "name": "1535 Miles Coverdale Bible",
+      "description": "1535 Miles Coverdale Bible",
+      "code": "Coverdale",
+      "version": "1.0.0"
+    },
+    {
+      "id": "deutc",
+      "type": "bible",
+      "path": "DEUTC.bible.zip",
+      "name": "https://github.com/scrollmapper/bible_databases_deuterocanonical",
+      "description": "https://github.com/scrollmapper/bible_databases_deuterocanonical",
+      "code": "DEUTC",
+      "version": "1.0.0"
+    },
+    {
+      "id": "diaglot",
+      "type": "bible",
+      "path": "DIAGLOT.bible.zip",
+      "name": "Diaglot NT - 1865",
+      "description": "Diaglot NT - 1865",
+      "code": "DIAGLOT",
+      "version": "1.0.0"
+    },
+    {
+      "id": "drb",
+      "type": "bible",
+      "path": "DRB.bible.zip",
+      "name": "https://en.wikipedia.org/wiki/Douay%E2%80%93Rheims_Bible",
+      "description": "https://en.wikipedia.org/wiki/Douay%E2%80%93Rheims_Bible",
+      "code": "DRB",
+      "version": "1.0.0"
+    },
+    {
+      "id": "drc",
+      "type": "bible",
+      "path": "DRC.bible.zip",
+      "name": "Douay-Rheims Bible, Challoner revision, standard Catholic English translation",
+      "description": "Douay-Rheims Bible, Challoner revision, standard Catholic English translation",
+      "code": "DRC",
+      "version": "1.0.0"
+    },
+    {
+      "id": "darby",
+      "type": "bible",
+      "path": "Darby.bible.zip",
+      "name": "Darby Bible translated by John Nelson Darby, OT 1890, NT 1884",
+      "description": "Darby Bible translated by John Nelson Darby, OT 1890, NT 1884",
+      "code": "Darby",
+      "version": "1.0.0"
+    },
+    {
+      "id": "ebr",
+      "type": "bible",
+      "path": "EBR.bible.zip",
+      "name": "https://en.wikipedia.org/wiki/Emphasized_Bible",
+      "description": "https://en.wikipedia.org/wiki/Emphasized_Bible",
+      "code": "EBR",
+      "version": "1.0.0"
+    },
+    {
+      "id": "evid",
+      "type": "bible",
+      "path": "EVID.bible.zip",
+      "name": "http://www.evidencebible.com/",
+      "description": "http://www.evidencebible.com/",
+      "code": "EVID",
+      "version": "1.0.0"
+    },
+    {
+      "id": "etheridge",
+      "type": "bible",
+      "path": "Etheridge.bible.zip",
+      "name": "Etheridge NT 1849",
+      "description": "Etheridge NT 1849",
+      "code": "Etheridge",
+      "version": "1.0.0"
+    },
+    {
+      "id": "fbv",
+      "type": "bible",
+      "path": "FBV.bible.zip",
+      "name": "Free Bible Version",
+      "description": "Free Bible Version",
+      "code": "FBV",
+      "version": "1.0.0"
+    },
+    {
+      "id": "gdbynt",
+      "type": "bible",
+      "path": "GDBYNT.bible.zip",
+      "name": "The Godbey New Testament, Rev. W. B. Godbey (1833-1920)",
+      "description": "The Godbey New Testament, Rev. W. B. Godbey (1833-1920)",
+      "code": "GDBYNT",
+      "version": "1.0.0"
+    },
+    {
+      "id": "geneva",
+      "type": "bible",
+      "path": "Geneva.bible.zip",
+      "name": "https://en.wikipedia.org/wiki/Geneva_Bible",
+      "description": "https://en.wikipedia.org/wiki/Geneva_Bible",
+      "code": "Geneva",
+      "version": "1.0.0"
+    },
+    {
+      "id": "hhbd",
+      "type": "bible",
+      "path": "HHBD.bible.zip",
+      "name": "Hindi Holy Bible",
+      "description": "Hindi Holy Bible",
+      "code": "HHBD",
+      "version": "1.0.0"
+    },
+    {
+      "id": "hkjvx",
+      "type": "bible",
+      "path": "HKJVx.bible.zip",
+      "name": "Hebraic King James Version with embedded Strong's Numbers",
+      "description": "Hebraic King James Version with embedded Strong's Numbers",
+      "code": "HKJVx",
+      "version": "1.0.0"
+    },
+    {
+      "id": "jepd",
+      "type": "bible",
+      "path": "JEPD.bible.zip",
+      "name": "JPED Coded KJV text of Pentateuch. Based on https://tanach.us/",
+      "description": "JPED Coded KJV text of Pentateuch. Based on https://tanach.us/",
+      "code": "JEPD",
+      "version": "1.0.0"
+    },
+    {
+      "id": "kjv",
+      "type": "bible",
+      "path": "KJV.bible.zip",
+      "name": "Formatted reading at https://marvel.bible",
+      "description": "Formatted reading at https://marvel.bible",
+      "code": "KJV",
+      "version": "1.0.0"
+    },
+    {
+      "id": "kjv1611",
+      "type": "bible",
+      "path": "KJV1611.bible.zip",
+      "name": "https://en.wikipedia.org/wiki/King_James_Version",
+      "description": "https://en.wikipedia.org/wiki/King_James_Version",
+      "code": "KJV1611",
+      "version": "1.0.0"
+    },
+    {
+      "id": "kjv1769x",
+      "type": "bible",
+      "path": "KJV1769x.bible.zip",
+      "name": "King James Version of 1611/1769 with Strong's numbers",
+      "description": "King James Version of 1611/1769 with Strong's numbers",
+      "code": "KJV1769x",
+      "version": "1.0.0"
+    },
+    {
+      "id": "kjv1963",
+      "type": "bible",
+      "path": "KJV1963.bible.zip",
+      "name": "Modern KJV 1963",
+      "description": "Modern KJV 1963",
+      "code": "KJV1963",
+      "version": "1.0.0"
+    },
+    {
+      "id": "kjva",
+      "type": "bible",
+      "path": "KJVA.bible.zip",
+      "name": "King James Version with Apocrypha",
+      "description": "King James Version with Apocrypha",
+      "code": "KJVA",
+      "version": "1.0.0"
+    },
+    {
+      "id": "kjvx",
+      "type": "bible",
+      "path": "KJVx.bible.zip",
+      "name": "King James Version of 1611/1769 with Strong's numbers",
+      "description": "King James Version of 1611/1769 with Strong's numbers",
+      "code": "KJVx",
+      "version": "1.0.0"
+    },
+    {
+      "id": "leb",
+      "type": "bible",
+      "path": "LEB.bible.zip",
+      "name": "Formatted reading at https://marvel.bible",
+      "description": "Formatted reading at https://marvel.bible",
+      "code": "LEB",
+      "version": "1.0.0"
+    },
+    {
+      "id": "lot",
+      "type": "bible",
+      "path": "LOT.bible.zip",
+      "name": "Leeser Old Testament translated by Isaac Leeser, 1853",
+      "description": "Leeser Old Testament translated by Isaac Leeser, 1853",
+      "code": "LOT",
+      "version": "1.0.0"
+    },
+    {
+      "id": "lsv",
+      "type": "bible",
+      "path": "LSV.bible.zip",
+      "name": "Literal Standard Version",
+      "description": "Literal Standard Version",
+      "code": "LSV",
+      "version": "1.0.0"
+    },
+    {
+      "id": "lamsant",
+      "type": "bible",
+      "path": "LamsaNT.bible.zip",
+      "name": "Holy Bible translated by George M. Lamsa from the Aramaic Peshitta, 1933",
+      "description": "Holy Bible translated by George M. Lamsa from the Aramaic Peshitta, 1933",
+      "code": "LamsaNT",
+      "version": "1.0.0"
+    },
+    {
+      "id": "mnt",
+      "type": "bible",
+      "path": "MNT.bible.zip",
+      "name": "The Bible: Moffatt New Translation translated by James Moffatt, 1926",
+      "description": "The Bible: Moffatt New Translation translated by James Moffatt, 1926",
+      "code": "MNT",
+      "version": "1.0.0"
+    },
+    {
+      "id": "macent",
+      "type": "bible",
+      "path": "MaceNT.bible.zip",
+      "name": "Daniel Mace New Testament, 1729",
+      "description": "Daniel Mace New Testament, 1729",
+      "code": "MaceNT",
+      "version": "1.0.0"
+    },
+    {
+      "id": "murd",
+      "type": "bible",
+      "path": "Murd.bible.zip",
+      "name": "James Murdock Translation of the Peshitta (Syriac) New Testament, 1851",
+      "description": "James Murdock Translation of the Peshitta (Syriac) New Testament, 1851",
+      "code": "Murd",
+      "version": "1.0.0"
+    },
+    {
+      "id": "net",
+      "type": "bible",
+      "path": "NET.bible.zip",
+      "name": "Formatted reading at https://marvel.bible",
+      "description": "Formatted reading at https://marvel.bible",
+      "code": "NET",
+      "version": "1.0.0"
+    },
+    {
+      "id": "nheb",
+      "type": "bible",
+      "path": "NHEB.bible.zip",
+      "name": "New Heart English Bible",
+      "description": "New Heart English Bible",
+      "code": "NHEB",
+      "version": "1.0.0"
+    },
+    {
+      "id": "noyes",
+      "type": "bible",
+      "path": "Noyes.bible.zip",
+      "name": "George R. Noyes Translation",
+      "description": "George R. Noyes Translation",
+      "code": "Noyes",
+      "version": "1.0.0"
+    },
+    {
+      "id": "otenglishlxx",
+      "type": "bible",
+      "path": "OTEnglishLXX.bible.zip",
+      "name": "The Septuagint Version of the Old Testament translated by Sir Lancelot Brenton, 1844",
+      "description": "The Septuagint Version of the Old Testament translated by Sir Lancelot Brenton, 1844",
+      "code": "OTEnglishLXX",
+      "version": "1.0.0"
+    },
+    {
+      "id": "pesh",
+      "type": "bible",
+      "path": "PESH.bible.zip",
+      "name": "Peshitta (Syriac) New Testament translated by John Wesley Etheridge, 1849",
+      "description": "Peshitta (Syriac) New Testament translated by John Wesley Etheridge, 1849",
+      "code": "PESH",
+      "version": "1.0.0"
+    },
+    {
+      "id": "pinyin",
+      "type": "bible",
+      "path": "Pinyin.bible",
+      "name": "Romanized Chinese",
+      "description": "Romanized Chinese",
+      "code": "Pinyin",
+      "version": "1.0.0"
+    },
+    {
+      "id": "pinyin",
+      "type": "bible",
+      "path": "Pinyin.bible.zip",
+      "name": "Romanized Chinese",
+      "description": "Romanized Chinese",
+      "code": "Pinyin",
+      "version": "1.0.0"
+    },
+    {
+      "id": "rev",
+      "type": "bible",
+      "path": "REV.bible.zip",
+      "name": "RevisedEnglishVersion",
+      "description": "RevisedEnglishVersion",
+      "code": "REV",
+      "version": "1.0.0"
+    },
+    {
+      "id": "rv1895",
+      "type": "bible",
+      "path": "RV1895.bible.zip",
+      "name": "https://en.wikipedia.org/wiki/Revised_Version",
+      "description": "https://en.wikipedia.org/wiki/Revised_Version",
+      "code": "RV1895",
+      "version": "1.0.0"
+    },
+    {
+      "id": "rva",
+      "type": "bible",
+      "path": "RVA.bible.zip",
+      "name": "Spanish Reina-Valera",
+      "description": "Spanish Reina-Valera",
+      "code": "RVA",
+      "version": "1.0.0"
+    },
+    {
+      "id": "rwvx",
+      "type": "bible",
+      "path": "RWVx.bible.zip",
+      "name": "Revised 1833 Webster Version with Strongs",
+      "description": "Revised 1833 Webster Version with Strongs",
+      "code": "RWVx",
+      "version": "1.0.0"
+    },
+    {
+      "id": "riverside",
+      "type": "bible",
+      "path": "Riverside.bible.zip",
+      "name": "The Riverside New Testament by William G. Ballantine",
+      "description": "The Riverside New Testament by William G. Ballantine",
+      "code": "Riverside",
+      "version": "1.0.0"
+    },
+    {
+      "id": "rotherham",
+      "type": "bible",
+      "path": "Rotherham.bible.zip",
+      "name": "The Emphasized Bible by J. B. Rotherham, 1902",
+      "description": "The Emphasized Bible by J. B. Rotherham, 1902",
+      "code": "Rotherham",
+      "version": "1.0.0"
+    },
+    {
+      "id": "tr",
+      "type": "bible",
+      "path": "TR.bible.zip",
+      "name": "http://getbible.net/scriptureinstall/Greek__NT_Textus_Receptus_(1550_1894)__text__LTR.txt",
+      "description": "http://getbible.net/scriptureinstall/Greek__NT_Textus_Receptus_(1550_1894)__text__LTR.txt",
+      "code": "TR",
+      "version": "1.0.0"
+    },
+    {
+      "id": "trlit",
+      "type": "bible",
+      "path": "TRLIT.bible.zip",
+      "name": "https://transliteralbible.com",
+      "description": "https://transliteralbible.com",
+      "code": "TRLIT",
+      "version": "1.0.0"
+    },
+    {
+      "id": "trlitx",
+      "type": "bible",
+      "path": "TRLITx.bible.zip",
+      "name": "https://transliteralbible.com",
+      "description": "https://transliteralbible.com",
+      "code": "TRLITx",
+      "version": "1.0.0"
+    },
+    {
+      "id": "trx",
+      "type": "bible",
+      "path": "TRx.bible.zip",
+      "name": "The Editio Regia, Stephanus 1550 Greek NT or Textus Receptus (Without Accents). With Scrivener's 1894 variants, Stephanus' critical apparatus, Strong's numbers, parsing info and lemmas.",
+      "description": "The Editio Regia, Stephanus 1550 Greek NT or Textus Receptus (Without Accents). With Scrivener's 1894 variants, Stephanus' critical apparatus, Strong's numbers, parsing info and lemmas.",
+      "code": "TRx",
+      "version": "1.0.0"
+    },
+    {
+      "id": "tanakhxx",
+      "type": "bible",
+      "path": "Tanakhxx.bible.zip",
+      "name": "Tanakh with Niqud, T'amim, Strong's numbers and Morphology",
+      "description": "Tanakh with Niqud, T'amim, Strong's numbers and Morphology",
+      "code": "Tanakhxx",
+      "version": "1.0.0"
+    },
+    {
+      "id": "tyndale",
+      "type": "bible",
+      "path": "Tyndale.bible.zip",
+      "name": "William Tyndale",
+      "description": "William Tyndale",
+      "code": "Tyndale",
+      "version": "1.0.0"
+    },
+    {
+      "id": "ult",
+      "type": "bible",
+      "path": "ULT.bible.zip",
+      "name": "https://unfoldingword.org/",
+      "description": "https://unfoldingword.org/",
+      "code": "ULT",
+      "version": "1.0.0"
+    },
+    {
+      "id": "ust",
+      "type": "bible",
+      "path": "UST.bible.zip",
+      "name": "https://unfoldingword.org/",
+      "description": "https://unfoldingword.org/",
+      "code": "UST",
+      "version": "1.0.0"
+    },
+    {
+      "id": "vw",
+      "type": "bible",
+      "path": "VW.bible.zip",
+      "name": "A Voice in the Wilderness - 2008",
+      "description": "A Voice in the Wilderness - 2008",
+      "code": "VW",
+      "version": "1.0.0"
+    },
+    {
+      "id": "vulgate",
+      "type": "bible",
+      "path": "Vulgate.bible.zip",
+      "name": "Jerome's A.D. 405 Biblia Sacra Vulgata Latina (Latin Vulgate)",
+      "description": "Jerome's A.D. 405 Biblia Sacra Vulgata Latina (Latin Vulgate)",
+      "code": "Vulgate",
+      "version": "1.0.0"
+    },
+    {
+      "id": "wlc",
+      "type": "bible",
+      "path": "WLC.bible.zip",
+      "name": "Westminster Leningrad Codex",
+      "description": "Westminster Leningrad Codex",
+      "code": "WLC",
+      "version": "1.0.0"
+    },
+    {
+      "id": "wlcx",
+      "type": "bible",
+      "path": "WLCx.bible.zip",
+      "name": "Westminster Leningrad Codex with Strong's Number",
+      "description": "Westminster Leningrad Codex with Strong's Number",
+      "code": "WLCx",
+      "version": "1.0.0"
+    },
+    {
+      "id": "wpnt",
+      "type": "bible",
+      "path": "WPNT.bible.zip",
+      "name": "Word of Promise New Testament",
+      "description": "Word of Promise New Testament",
+      "code": "WPNT",
+      "version": "1.0.0"
+    },
+    {
+      "id": "wesley",
+      "type": "bible",
+      "path": "Wesley.bible.zip",
+      "name": "John Wesley's NT",
+      "description": "John Wesley's NT",
+      "code": "Wesley",
+      "version": "1.0.0"
+    },
+    {
+      "id": "wycliffe",
+      "type": "bible",
+      "path": "Wycliffe.bible.zip",
+      "name": "John Wycliffe Bible",
+      "description": "John Wycliffe Bible",
+      "code": "Wycliffe",
+      "version": "1.0.0"
+    },
+    {
+      "id": "ylt",
+      "type": "bible",
+      "path": "YLT.bible.zip",
+      "name": "Young's Literal Translation",
+      "description": "Young's Literal Translation",
+      "code": "YLT",
+      "version": "1.0.0"
+    }
+  ]
+}
